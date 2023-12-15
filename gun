@@ -1,0 +1,84 @@
+/*console.log("hello world")
+var a=10
+var b=20
+var name="naveen"
+console.log(a,b,name)
+
+
+var a=20
+var b=30
+console.log(a+b)
+
+var num1 = 20.0
+var num2 = 30
+
+var result = num1 > num2
+console.log(result, typeof num1)
+console.log(num1 ** num2 )
+
+let num =6
+console.log(num, typeof num)
+
+let mum1 = String[6]
+let mum2 =(number["123"])
+console.log(mum1,mum2,typeof mum1, typeof mum2)
+
+let x
+console.log(x, typeof x)
+x=8
+console.log(x, typeof x)
+x=""+x
+console.log(x, typeof x)
+console.log(x)
+x=x+""
+console.log(x, typeof x)
+x=-2
+console.log(x, typeof x)
+console.log(x)
+x=!x
+console.log(x, typeof x)
+
+console.log(x)
+
+console.log(Boolean(0))
+console.log(Boolean("naveen"))
+console.log(x)
+x=x+2
+console.log(x, typeof x)
+
+x++
+console.log(x)
+++x
+console.log(x)
+x--
+console.log(x)
+--x
+console.log(x)
+
+let radius=5
+let pi=3.14
+let area =pi * radius * radius
+console.log(area)
+let one = true + true
+let two = false + false
+let onee = true 
+let twoo = false 
+console.log(one)
+console.log(two)
+console.log(onee)
+console.log(twoo)
+//for(let i=1;i<=100;i--)
+{
+    if(i%2===0)
+    console.log(i,"even numbers")
+    else
+    console.log(i, "odd numbers")
+}*/
+var num = 18
+{
+    if(num>=18)
+    console.log("person's age is more then eighteen")
+    else 
+    console.log("person's age is less then eighteen")
+} 
+
